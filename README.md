@@ -5,4 +5,4 @@ This repository is a sample repository and its purpose is to solve the tasks fro
 I just added this line with the nano editor because I like the nano editor and nobody can change my mind! :D
 
 # develop branch
-Here appears the magic. THe user will never know and this branch will stay for him a mystery!
+This change was made for a fancy screenshot!
